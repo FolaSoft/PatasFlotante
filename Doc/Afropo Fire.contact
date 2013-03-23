@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c:contact c:Version="1" xmlns:c="http://schemas.microsoft.com/Contact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:MSP2P="http://schemas.microsoft.com/Contact/Extended/MSP2P">
+	<c:CreationDate>2013-03-23T04:11:32Z</c:CreationDate><c:Extended xsi:nil="true"/>
+	<c:ContactIDCollection><c:ContactID c:ElementID="7cf71deb-6134-4a5f-9d31-cf064ab27b04"><c:Value>cb94ff12-4990-48af-8737-856b9f24a7c2</c:Value></c:ContactID></c:ContactIDCollection><c:NameCollection><c:Name c:ElementID="cf65ede2-510a-4b72-a0c5-2bf15c8a77dd"><c:Title>CEO &amp; Founder PatasFlotante</c:Title><c:FormattedName>Afropo Fire</c:FormattedName><c:FamilyName>Fire</c:FamilyName><c:GivenName>Afropo</c:GivenName></c:Name></c:NameCollection><c:PhotoCollection><c:Photo c:ElementID="246c7709-92b4-4282-ba80-a5f124c7ada7"><c:LabelCollection><c:Label>UserTile</c:Label></c:LabelCollection></c:Photo></c:PhotoCollection></c:contact>
